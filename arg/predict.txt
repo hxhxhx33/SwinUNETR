@@ -1,0 +1,2 @@
+--sw_batch_size=1
+--sw_overlap_ratio=0.7

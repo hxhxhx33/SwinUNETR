@@ -1,0 +1,9 @@
+--num_dim 3
+--patch_size 2
+--window_size 7
+--swin_stage_depths 2 2 2 2
+--swin_stage_num_heads 3 6 12 24
+--input_channel 4
+--hidden_channel 48
+--output_channel 3
+--mlp_ratio 4

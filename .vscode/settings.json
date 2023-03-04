@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.typeCheckingMode": "strict",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        88
+    ],
+}

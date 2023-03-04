@@ -1,0 +1,7 @@
+torch==1.13.1+cu117
+pylint==2.16.2
+black==23.1.0
+einops==0.6.0
+monai==1.1.0
+typed-argument-parser==1.7.2
+nibabel==5.0.1
