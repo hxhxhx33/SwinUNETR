@@ -39,3 +39,5 @@ make train
 make predict
 make evaluate
 ```
+
+Under the default setting with seed `2011411595`, the model shall achieve average Dice score `0.9240`, `0.9022` and `0.8617` on the `WT`, `TC`, and `ET` label respectively.
